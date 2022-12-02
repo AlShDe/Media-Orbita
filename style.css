@@ -1,0 +1,13 @@
+hr{
+    border-style: dotted none none;
+    width: 7%;
+    border-width: 5px;
+    border-color: gray;
+}
+h1{
+    font: ariel;
+    color: #0D4C92;
+}
+h2{
+    color: #0D4C92;
+}
